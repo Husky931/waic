@@ -5,9 +5,7 @@ import { Box } from "@mui/material"
 import Step0 from "./steps/Step0"
 import Step1 from "./steps/Step1"
 import Step2 from "./steps/Step2"
-import Step3 from "./steps/Step3"
 import Step4 from "./steps/Step4"
-import Step5 from "./steps/Step5"
 
 function App() {
     const width = useWindowWidth()
